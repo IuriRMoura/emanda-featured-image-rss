@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: emanda-featured-image-rss 1.1.0\n"
+"Report-Msgid-Bugs-To: https://www.emanda.com.br/\n"
+"POT-Creation-Date: 2025-08-11 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Configurações do RSS"
+msgstr ""
+
+msgid "Tamanho da imagem"
+msgstr ""
+
+msgid "Prefixar imagem no conteúdo do feed"
+msgstr ""
+
+msgid "Incluir <media:content>"
+msgstr ""
+
+msgid "Incluir <enclosure>"
+msgstr ""
+
+msgid "Remover emojis no feed"
+msgstr ""
+
+msgid "Remover <img class=\"wp-smiley\"> do conteúdo do feed"
+msgstr ""
+
+msgid "Fallback: usar 1ª imagem do conteúdo"
+msgstr ""
+
+msgid "Imagem padrão (URL)"
+msgstr ""
+
+msgid "Adicionar a imagem antes do conteúdo do feed."
+msgstr ""
+
+msgid "Imprimir <media:content> por item."
+msgstr ""
+
+msgid "Imprimir <enclosure> por item."
+msgstr ""
+
+msgid "Desabilitar conversão de emojis em imagens quando o contexto for feed."
+msgstr ""
+
+msgid "Remover <img class=\"wp-smiley\"> já gravados no HTML do post ao entregar no feed."
+msgstr ""
+
+msgid "RSS – Imagem Destacada"
+msgstr ""

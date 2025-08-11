@@ -1,0 +1,25 @@
+# Exclude Git & GitHub
+.git
+.gitignore
+.gitattributes
+.github
+
+# Node / build tools
+node_modules
+vendor
+composer.*
+package*.json
+vite.*
+webpack.*
+
+# Editors / OS
+*.code-workspace
+*.DS_Store
+
+# Project docs & meta
+README.md
+LICENSE
+*.md
+
+# CI / assets (WordPress.org assets stay outside the plugin)
+.wordpress-org
