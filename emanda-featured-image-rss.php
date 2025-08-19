@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name:       Emanda – Featured Image in RSS
- * Plugin URI:        https://www.emanda.com.br/
- * Description:       Garante imagem de capa consistente no RSS padrão do WordPress: prefixa a imagem destacada no conteúdo do feed e, opcionalmente, adiciona <media:content> e <enclosure>. Inclui fallbacks e remoção de emojis no feed.
- * Version:           1.1.0
+ * Plugin URI:        https://github.com/IuriRMoura/emanda-featured-image-rss
+ * Description:        Adds the post’s featured image to the default WordPress RSS feed with optional Media RSS/enclosure, fallbacks, and emoji cleanup.
+ * Version:           1.1.3
  * Requires at least: 5.0
  * Requires PHP:      7.2
  * Author:            Emanda
